@@ -1,7 +1,7 @@
 # Ecommerce Product Recommendation System
  
 ## Overview
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project we will create a recommendation system by using a dataset from a UK-based retailer available at the UCI Machine Learning Repository. This dataset includes all transactions occurring between 2010 and 2011, providing developing powerful customer segmentation and recommendation systems to enhance marketing strategies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project we will create a recommendation system by using a dataset from a UK-based retailer available at the UCI Machine Learning Repository(https://archive.ics.uci.edu/dataset/352/online+retail). This dataset includes all transactions occurring between 2010 and 2011, providing developing powerful customer segmentation and recommendation systems to enhance marketing strategies.
 ## Problem 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this project, we aim to transform transactional data into a customer-centric dataset by creating new features that will facilitate the segmentation of customers into distinct groups. This segmentation will allow us to understand the unique profiles and preferences of various customer groups, thus amplifying the efficiency of marketing strategies and fostering increased sales.
 ## Objectives
